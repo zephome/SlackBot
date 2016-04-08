@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <asp:Button ID="btn_BotSendMessage" Text="Slack Bot 메세지 보내기" runat="server" OnClick="btn_BotSendMessage_Click" />
+        <asp:Button ID="btn_BotSendMessage" Text="* Slack Bot 메세지 보내기 *" runat="server" OnClick="btn_BotSendMessage_Click" />
     </div>
     </form>
 </body>
